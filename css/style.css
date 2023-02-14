@@ -263,19 +263,19 @@ button:focus {
 }
 
 .level--1::after {
-	content: 'L1';
+	content: 'GUT';
 }
 
 .level--2::after {
-	content: 'L2';
+	content: 'HEART';
 }
 
 .level--3::after {
-	content: 'L3';
+	content: 'MIND';
 }
 
 .level--4::after {
-	content: 'L4';
+	content: 'CONSCIENCE';
 }
 
 .level:not(:first-child) {
