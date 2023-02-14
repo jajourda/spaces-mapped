@@ -264,18 +264,22 @@ button:focus {
 
 .level--1::after {
 	content: 'GUT';
+	color:#16DB3D;
 }
 
 .level--2::after {
 	content: 'HEART';
+	color:#007FFF;
 }
 
 .level--3::after {
 	content: 'MIND';
+	color:#0000CC;
 }
 
 .level--4::after {
 	content: 'CONSCIENCE';
+	color:#9933FF;
 }
 
 .level:not(:first-child) {
